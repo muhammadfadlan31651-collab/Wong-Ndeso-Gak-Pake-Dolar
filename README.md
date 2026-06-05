@@ -1,5 +1,4 @@
 # 🖥️ UAS LAB Algoritma dan Pemrograman 
-### Semester Genap T.A. 2025/2026
 
 # Wong-Ndeso-Gak-Pake-Dolar
 Repository Collaboration 
