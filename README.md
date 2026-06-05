@@ -33,12 +33,10 @@ Program ini basically adalah sistem buat ngelola parkir di Mall. Jadi petugas pa
 Waktu pertama buka program, petugas diminta masukin nama sama ID dulu, biar ketauan siapa yang lagi jaga. Abis itu baru deh bisa mulai kerjaan.
 
 Fitur utamanya ada 4: 
-   **1.bisa tambah mobil yang baru masuk**
 
+   **1.bisa tambah mobil yang baru masuk**
    **2.lihat daftar mobil yang lagi parkir sekarang**
-  
    **3.proses pembayaran buat mobil yang mau keluar**
-  
    **4.sama keluar program.**
 
 waktu catat mobil masuk itu sistemnya langsung nyimpen waktu masuknya secara otomatis. Jadi nanti pas bayar, tinggal masukin plat nomornya, biayanya langsung keitung sendiri sesuai berapa lama dia parkir. Nggak perlu hitung manual lagi.
