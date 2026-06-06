@@ -105,4 +105,15 @@ Untuk gameplay utamanya, program ini menyediakan fitur-fitur standar Minesweeper
 - Timer Waktu: Sistem memiliki penghitung waktu di latar belakang yang mencatat durasi total detik yang dihabiskan pemain dari awal mulai sampai mereka berhasil menang.
 - Opsi Main Lagi: Setelah satu ronde selesai, entah itu karena berhasil menang atau kalah karena meledak terkena bom, pemain bisa langsung memilih untuk memulai permainan baru lagi tanpa harus menutup dan membuka ulang aplikasi terminalnya.
 
+5. ## Tebak Negara (Owen Liandra)
+Program ini pada dasarnya adalah game teka-teki kata bertema geografi, di mana semuanya dijalankan full lewat terminal atau command prompt (CLI). Tidak ada antarmuka grafis atau tombol yang bisa diklik menggunakan mouse; semuanya murni berbasis teks dan dikendalikan sepenuhnya lewat ketikan keyboard.
 
+Waktu pertama kali program dibuka, sistem akan otomatis memuat data dari file sumber terpisah dan mengacak satu nama negara di latar belakang. Sistem kemudian akan mengaburkan identitas negara tersebut dengan menyembunyikan sekitar setengah dari total huruf aslinya dan menggantinya dengan simbol garis bawah (_). Kata yang sudah disensor inilah yang kemudian dilempar ke layar pemain sebagai petunjuk utama.
+
+Untuk gameplay utamanya, program ini menyediakan fitur-fitur interaktif standar pada umumnya:
+
+Tebak Kata (Clue): Pemain menganalisis sisa huruf yang muncul di layar dan mengetikkan tebakan nama negara secara penuh. Sistem pembacaan bersifat case-insensitive, sehingga pemain bebas mengetik menggunakan huruf kapital maupun kecil tanpa memengaruhi hasil penilaian.
+
+Sistem Skor: Program memiliki penghitung nilai di latar belakang. Setiap kali pemain berhasil menebak nama negara dengan tepat, sistem akan memberikan ucapan selamat dan skor akan otomatis bertambah satu poin. Jika tebakan salah, sistem akan memberitahu bahwa jawaban salah dan skor tetap ditahan.
+
+Opsi Main Lagi: Setelah satu ronde tebakan selesai dieksekusi (entah itu berujung benar atau salah), pemain bisa langsung mengetik 'y' untuk meminta soal negara baru lagi atau 'n' untuk mengakhiri permainan, tanpa harus menutup dan membuka ulang aplikasi terminal.
