@@ -123,3 +123,4 @@ Opsi Main Lagi: Setelah satu ronde tebakan selesai dieksekusi (entah itu berujun
 https://drive.google.com/drive/folders/1zydsKqqFeB4OB2t8SkSq0HpC2yizp_wD?usp=drive_link
 
 ## Video Presentasi Melalui Link Youtube 
+https://youtu.be/sgdO7onfNa8?feature=shared
